@@ -1,8 +1,9 @@
+                          Kerneltroia
+                          
 Olá, aqui irei explicar como criei meu primeiro trojan básico com server local.
 Aqui também irei passar o código e para o que cada um serve.
 Recomendo primeiro escrever os códigos e pra depois ir usando de 1 por 1.
-
-Kerneltroia
+Utilizei 3 SO nesse teste kali Linux, VM Windows 10 e Windows 11 nativo.
 
 O trojan foi feito para testes locais, eu testei ele no Windows defender e no AVG, e ele foi detectado somente pelo AVG ou seja, ele passou pelo Windows defender. Vamos direto para o assunto.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
